@@ -10,3 +10,5 @@ It's clean, and makes my life so much easier than trying to make it look like th
 
 # Credit
 Credit to [Xeoran](https://musescore.com/xeoran) on musescore for [the sheets music](https://musescore.com/xeoran/spelunky_the_mines_a) which I used to recreate the song. And of course credit to the original composer Eirik Suhrke. Credit to [this video teching the basics of synths](https://www.youtube.com/watch?v=NJLIS2MkFe4) and [this video which is specific to Vital](https://www.youtube.com/watch?v=yFzcoeWHVCQ).
+
+Tip! Terrain sets for automatic connecting tiles.
